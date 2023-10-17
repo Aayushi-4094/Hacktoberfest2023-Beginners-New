@@ -126,6 +126,12 @@
 - Affiliation - Great Learning, Problem solver.
 - GitHub: [Sahil Rajput](https://github.com/sahilrajput18)
 
+  #### Name: [Aayushi Agarwal](https://github.com/Aayushi-4094)
+
+- Place: Haldwani, Uttarakhand, India
+- Bio: Fullstack developer, machine learning enthusiast
+- GitHub: [Aayushi-4094](https://github.com/Aayushi-4094)
+
 #### Name: [Abdul Rehan](https://www.linkedin.com/in/abrehan)
 
 - Place: Pakistan, Islamabad
